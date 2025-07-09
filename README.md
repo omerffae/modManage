@@ -64,7 +64,7 @@ modManage/
 
 ## Ekran Görüntüsü
 
-![modManage](public/modaManage.gif)
+![Proje Görseli](/public/modManage.gif)  
 
 ## Katkı Sağlama
 
