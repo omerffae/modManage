@@ -9,7 +9,7 @@ const Header = () => {
   const dispatch =useDispatch();
   return (
     <div className="flex items-center justify-between bg-indigo-600 text-white px-4 py-3 ">
-      <div className="text-3xl">REACT UYGULAMA</div>
+      <div className="text-3xl">modManage</div>
       <div className="flex items-center gap-5">
         <div className="text-black">
           <select onChange={e=>dispatch(sortingDataFunc(e.target.value))} className="h-10 rounded-lg" name="" id="">
